@@ -41,7 +41,7 @@ U 1 1 614085CA
 P 2050 1350
 F 0 "D1" V 2004 1430 50  0000 L CNN
 F 1 "1N4148" H 1925 1225 50  0000 L CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2050 1175 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp" H 2050 1175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2050 1350 50  0001 C CNN
 	1    2050 1350
 	0    1    1    0   
